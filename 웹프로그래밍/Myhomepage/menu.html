@@ -1,0 +1,72 @@
+<!-- ÀÛ¼ºÀÚ : Park Min Hyeok -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<style>
+
+	*{background-image:url('image/¹è°æ.jpg');}
+		
+	a { 
+		text-decoration:none;
+		color: black; 
+		background:rgb(171,242,0);
+		font-family:"¸¼Àº °íµñ"; 
+		animation-duration: 3s;
+  		animation-name: slidein;	
+	}
+	
+	    div {
+	        	position: relative;
+		font-size:25px;
+	       	left: 0px;
+	      	width: 170px; 
+            	     	height: 120px;
+	        	background: rgb(171,242,0);
+		backgound-clip:border-box;
+	        	border: 1px solid black;
+	        	transition-property: width background;
+	        	transition-duration: 2s; 2s;
+	        	line-height: 60px;
+		animation-duration: 3s;
+  		animation-name: slidein;
+	    }
+
+ 	    div:hover {
+          			width: 300px;
+			height:100px;
+	        		transition-timing-function: linear;
+	        		background: (171,242,0);
+	        		color: white;
+	        		text-align: center;
+	        		font-size: 2rem;
+	    }
+
+	@keyframes slidein {
+ 		 from {
+  		  		margin-top: 100%;
+ 			 }
+
+ 		 to {
+   		 		margin-bottom: 0%;
+ 		 	}
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<div style="top:50px;"><a href="home.html">HOME</a></div>
+	<div style="top:50px;"><a href="privacy.html">My Privacy</a></div>
+	<div style="top:50px;"><a href="intro.html">Introuduce Me</a></div>
+	<div style="top:50px;"><a href="schedule.html">My Schedule</a></div>
+	<div style="top:50px;"><a href="photo.html">Photos</a></div>
+
+</body>
+
+</html>

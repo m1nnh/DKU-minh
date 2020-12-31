@@ -1,0 +1,94 @@
+<!-- ÀÛ¼ºÀÚ : Park Min Hyeok -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Photo Of Memories</title>
+
+	<style>
+
+	*{ 
+		background-image:url('image/¹è°æ.jpg');
+	   	color:black;
+		font-size:20px;
+		font-family:"¸¼Àº °íµñ";
+	}
+
+	h1,a {
+		text-decoration:none;
+ 		animation-duration: 3s;
+  		animation-name: slidein;
+		}
+
+	img { 
+		width:10px;
+		height:10px;
+		}
+	div{
+             	width:250px;
+             	height:250px;
+             	border-radius:50%;
+             	border: 10px solid white;
+             	background-image:url('image/¹ÎÇõ1.jpg');
+             	background-size: 100%;
+             	margin-left: auto;
+             	margin-right: auto;
+             	animation: movpic 9s infinite;
+       	  }
+
+	a:visited { color:red;}
+
+	div:hover {transform:scale(1.1,1.1);}
+
+	img:active { 
+		width:700px; 
+		position:absolute;
+		align:center;
+		}
+
+	@keyframes slidein {
+ 		 from {
+  		  		margin-right: 100%;
+   				width: 300%;
+ 			 }
+
+ 		 to {
+   		 		margin-left: 0%;
+   				width: 100%;
+ 		 	}
+		}
+	
+	</style>
+
+</head>
+
+<body>
+
+<header>
+	<div style="cursor: pointer;" onclick="location.href='menu.html'">
+	</div>		
+</header>
+
+<section>
+	<article>
+	<h1 style="font-size:2rem;">Photo Of Memories</h1>	
+	<a href="Photos\TravelPhotos.html" target="_new">Go To travel photos(Clicking a link will open a new page)</a>
+	<p></p>
+	<a href="Photos\FoodPhotos.html" target="_new">Go To Food Photos(Clicking a link will open a new page)</a>
+	<p></p>
+	<a href="Photos\SelfPhotos.html" target="_new">Go To Self Photos(Clicking a link will open a new page)</a>
+	<p></p>
+	<a href="Photos\GirlFriendPhotos.html" target="_new">Go To GirlFriend Photos(Clicking a link will open a new page)</a>
+	<p></p>
+	<a href="Photos\BJH.html" target="_new">Go to BJH Photos(Clicking a link will open a new page)</a>
+	<p></p>
+	</article>
+</section>
+
+
+</body>
+
+</html>

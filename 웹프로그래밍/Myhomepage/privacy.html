@@ -1,0 +1,91 @@
+<!-- 작성자 : ParkMinHyeok -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>My Privacy</title>
+
+	<style>
+
+	*{ 
+		background-image:url('image/배경.jpg');
+	 	color:balck;
+		font-size:20px;
+		font-family:"맑은 고딕";
+	}
+	
+	h1,p {
+ 		 animation-duration: 3s;
+  		animation-name: slidein;
+		}
+
+	div{
+             	width:250px;
+            		height:250px;
+             	border-radius:50%;
+             	border: 10px solid white;
+             	background-image:url('image/민혁1.jpg');
+             	background-size: 100%;
+             	margin-left: auto;
+             	margin-right: auto;
+             	animation: movpic 9s infinite;
+      	   }
+
+	div:hover { transform:scale(1.1,1.1);}
+
+	@keyframes slidein {
+ 		 from {
+  		  		margin-left: 100%;
+   				 width: 300%
+ 			 }
+
+ 		 to {
+   		 		margin-left: 0%;
+   				 width: 100%;
+ 		 	}
+		}
+
+	@keyframes movpic{
+            				0% {background-image:url('image/민혁1.jpg');}
+             			10%{background-image:url('image/민혁1.jpg');}
+             			25%{background-image:url('image/민혁2.jpg');}
+             			40%{background-image:url('image/민혁2.jpg');}
+             			50%{background-image:url('image/민혁3.jpg');}
+             			65%{background-image:url('image/민혁3.jpg');}
+             			75%{background-image:url('image/민혁4.jpg');}
+				100%{background-image:url('image/민혁4.jpg');         
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<header>
+	<div style="cursor: pointer;" onclick="location.href='menu.html'">
+	</div>
+	</header>
+
+<section>
+	<article>
+	<h1 style="font-size:2rem;">My Privacy</h1>
+	<p>이름 : 박민혁</p>
+	<p>나이 : 23살</p>
+	<p>직업 : 학생</p>
+	<p>학교 : 단국대학교 소프트웨어학과</p>
+	<p>학번 : 32151671</p>
+	<p>사는곳 : 경기도 용인시 죽현로 1253-2번지 302호</p>
+	<p>핸드폰 번호 : 010-7912-3278</p>
+	<p>이메일 주소 : alsgur9784@naver.com</p>
+	<p>---질문 사항은 이메일 주소로 메일 보내 주시기 바랍니다.---<p>
+	</article>
+</section>
+
+</body>
+
+</html>
+

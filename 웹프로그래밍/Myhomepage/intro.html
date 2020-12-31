@@ -1,0 +1,91 @@
+<!-- 작성자 : Park Min Hyeok -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+ 	<title>Introduce Me</title>
+	
+	<style>
+
+	*{
+		background-image:url('image/배경.jpg');
+	   	color:balck;
+		font-size:20px;
+		font-family:"맑은 고딕"
+	}
+
+	
+	h1,p {
+ 		 animation-duration: 3s;
+  		animation-name: slidein;
+		}
+
+	div{
+             	width:250px;
+             	height:250px;
+             	border-radius:50%;
+             	border: 10px solid white;
+            		background-image:url('image/민혁1.jpg');
+             	background-size: 100%;
+             	margin-left: auto;
+             	margin-right: auto;
+             	animation: movpic 9s infinite;
+    	    }
+
+	div:hover { transform:scale(1.1,1.1);}
+
+	@keyframes slidein {
+ 		 from {
+  		  		margin-left: 100%;
+   				 width: 300%
+ 			 }
+
+ 		 to {
+   		 		margin-left: 0%;
+   				 width: 100%;
+ 		 	}
+		}
+
+	@keyframes movpic{
+             			0% {background-image:url('image/민혁1.jpg');}
+             			10%{background-image:url('image/민혁1.jpg');}
+             			25%{background-image:url('image/민혁2.jpg');}
+             			40%{background-image:url('image/민혁2.jpg');}
+             			50%{background-image:url('image/민혁3.jpg');}
+             			65%{background-image:url('image/민혁3.jpg');}
+             			75%{background-image:url('image/민혁4.jpg');}
+				100%{background-image:url('image/민혁4.jpg');         
+	}
+
+	</style>
+
+</head>
+
+<body>
+
+	<header>
+	<div style="cursor: pointer;" onclick="location.href='menu.html'">
+	</div>
+	</header>
+
+<section>
+	<article>
+		<h1 style="font-size:2rem;">Introduce Me </h1>
+		<p>1996년 10월 10일 대전 출생</p>
+		<p>2009년 논산동성초등학교 졸업</p>
+		<p>2012년 논산대건중학교 졸업</p>
+		<p>2015년 논산고등학교 졸업</p>
+		<p>2015년 단국대학교 입학</p>
+		<p>2015년 단국대학교 소프트웨어학과 1학년 대표</p>
+		<p>2018년 병장 만기 전역</p>
+		<p>2019년 단국대학교 소프트웨어학과 회장</p>	
+	</article>
+</section>
+
+
+</body>
+
+</html>
