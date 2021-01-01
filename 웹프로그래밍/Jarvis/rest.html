@@ -1,0 +1,94 @@
+﻿<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>JARVIS 자리비었쓰?</title>
+        <link href="css\basic_structure.css" rel="stylesheet" type="text/css">
+        <link href="css\logo.css" rel="stylesheet" type="text/css">
+        <link href="css\search.css" rel="stylesheet" type="text/css">
+        <link href="css\contents.css" rel="stylesheet" type="text/css">
+
+        <style>
+			#contents {
+				width: 80%; height: 600px;
+                background:rgb(186, 225, 143);
+				border: 3px solid rgb(186, 225, 143);
+                border-radius: 10px;
+				border-collapse: separate;
+                margin: 50px;
+                padding: 5px;
+			}
+			.list { 
+				width: 95%; height: 70px;
+                text-align:left;
+                border-radius: 10px;
+                background-color: rgb(243, 250, 236);
+				margin: 10px 0px;
+				padding: 4px;
+			}
+        </style>
+    </head>
+    <body>
+        <header>
+            <div style="padding-bottom: 5%">
+                <center><a href="home.html"><img src="icon\logo\text.png" id="text" width=30%></a></center>
+                <img src="icon\logo\chains.png" id="chains" width=12%>
+                <img src="icon\logo\bar.png" id="halfmoon" width=9%>
+                <img src="icon\logo\x.png" id="x" width=15%>
+                <img src="icon\logo\y.png" id="y" height=28%>
+                <img src="icon\logo\dot.png" id="dot" width=1.3%>
+            </div>
+            <center>
+                <form id="search">
+                    <intput type="submit"><img class="menu" src="icon\search.png" style="height: 25px"></input>
+                    <textarea size="20" style="width:300px; height:19px; border:hidden;background-color:inherit;" placeholder="예) 기흥구 보정동"></textarea>
+                    <img class="menu" src="icon\locate.png" style="height: 25px">
+                </form>
+            </center>
+        </header>
+        <section style="height:650px;">
+            <center><div id="contents">
+                <div style="width:64%; height:100%; float:left;">
+                    <iframe src="maps\map.html" width=100% height=100% style="border-width: 0px; border-radius:10px;"></iframe>
+                </div>
+                <div class="base">
+                    <div class="list">
+                        <div class="list_title"><a href="rseat1.html">승환 반점</a></div>
+                        <div class="list_info">
+                            <div class="list_info_tel">Shop tel</div>
+                            <div class="list_info_location">location</div>
+                            <div class="list_info_seat">seat</div>
+                        </div>
+			<div class="list">
+                        <div class="list_title"><a href="rseat2.html">민혁토랑</a></div>
+                        <div class="list_info">
+                            <div class="list_info_tel">Shop tel</div>
+                            <div class="list_info_location">location</div>
+                            <div class="list_info_seat">seat</div>
+                        </div>
+			<div class="list">
+                        <div class="list_title"><a href="rseat3.html">홍어승기</a></div>
+                        <div class="list_info">
+                            <div class="list_info_tel">Shop tel</div>
+                            <div class="list_info_location">location</div>
+                            <div class="list_info_seat">seat</div>
+                        </div>
+			<div class="list">
+                       <div class="list_title"> <a href="rseat4.html">제연김밥</a></div>
+                        <div class="list_info">
+                            <div class="list_info_tel">Shop tel</div>
+                            <div class="list_info_location">location</div>
+                            <div class="list_info_seat">seat</div>
+                        </div>
+                    </div>
+                </div>
+            </div></center>
+        </section>
+        <footer>
+            <div>
+                a
+            </div>
+        </footer>
+    </body>
+</html>
