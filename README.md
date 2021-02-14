@@ -1,7 +1,7 @@
-# DKU-minh
+# Software, DKU-minh
 Data on subjects taken by Danokook University from 2015 to 2021
 
-# Course Taken List 
+# Course Taken List(Software-Related)
 
  Year |  Semester | Subject(KOR) | Subject(ENG) | Grade
  :---: | :---: | :--- | :--- | :---:
