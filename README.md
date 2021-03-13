@@ -14,7 +14,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2020 | 1 | [컴퓨터그래픽스](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) | [Computer Graphics](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) 
 2020 | 1 | [디자인패턴](https://github.com/m1nnh/DKU-minh/tree/master/디자인패턴) | [Design Pattern](https://github.com/m1nnh/DKU-minh/tree/master/디자인패턴) 
 2020 | 1 | [멀티미디어시스템](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어시스템) | [Multimedia System](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어시스템) 
-2019 | 2 | 멀티미디어신호처리 | Multimedia Signal Processing 
+2019 | 2 | [멀티미디어신호처리](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어신호처리) | [Multimedia Signal Processing](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어신호처리) 
 2019 | 2 | 인공지능 | Artificial Intelligence 
 2019 | 2 | 컴퓨터구조 | Computer Architecture 
 2019 | 2 | 고급프로그래밍 | Advanced Programming 
