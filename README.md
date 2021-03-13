@@ -21,7 +21,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2019 | 2 | 실무중심산학협력프로젝트2 | Industrial Cooperative Project2 
 2019 | 1 | 운영체제 | Operating Systems 
 2019 | 1 | 오픈소스SW활용 | Open Source SW Utilization 
-2019 | 1 | 알고리즘 | Algorithm 
+2019 | 1 | [알고리즘](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) | [Algorithm](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) 
 2019 | 1 | 컴퓨터네트워크 | Computer Network 
 2019 | 1 | 프로그래밍 | Programming 
 2018 | 2 | 자료구조 | Data Structure 
