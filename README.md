@@ -22,7 +22,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2019 | 1 | [운영체제](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) | [Operating Systems](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) 
 2019 | 1 | 오픈소스SW활용 | Open Source SW Utilization 
 2019 | 1 | [알고리즘](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) | [Algorithm](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) 
-2019 | 1 | 컴퓨터네트워크 | Computer Network 
+2019 | 1 | [컴퓨터네트워크](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터네트워크) | [Computer Network](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터네트워크) 
 2019 | 1 | 프로그래밍 | Programming 
 2018 | 2 | [자료구조](https://github.com/m1nnh/DKU-minh/tree/master/자료구조) | [Data Structure](https://github.com/m1nnh/DKU-minh/tree/master/자료구조) 
 2018 | 2 | [웹프로그래밍](https://github.com/m1nnh/DKU-minh/tree/master/웹프로그래밍) | [Web Programming](https://github.com/m1nnh/DKU-minh/tree/master/웹프로그래밍) 
