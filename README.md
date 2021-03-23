@@ -5,7 +5,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 
  Year |  Semester | Subject(KOR) | Subject(ENG) 
  :---: | :---: | :--- | :--- 
-2021 | 1 | 시큐어코딩 | Secure Coding 
+2021 | 1 | [시큐어코딩](https://github.com/m1nnh/DKU-minh/tree/master/시큐어코딩) | [Secure Coding](https://github.com/m1nnh/DKU-minh/tree/master/시큐어코딩) 
 2021 | 1 | 빅데이터 처리 | Big Data Processing 
 2021 | 1 | [영상정보처리](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) | [Image Processing](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) 
 2021 | 1 | 데이터마이닝 | Data Mining 
