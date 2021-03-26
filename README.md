@@ -10,7 +10,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2021 | 1 | [영상정보처리](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) | [Image Processing](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) 
 2021 | 1 | 데이터마이닝 | Data Mining 
 2020 | 1 | [데이터베이스기초](https://github.com/m1nnh/DKU-minh/tree/master/데이터베이스) | [Fundamentals Of Database](https://github.com/m1nnh/DKU-minh/tree/master/데이터베이스) 
-2020 | 1 | [실무중심산학협력프로젝트1](https://github.com/m1nnh/LookForClothes) | [Industrial Cooperative Project1](https://github.com/m1nnh/LookForClothes) 
+2020 | 1 | 실무중심산학협력프로젝트1 | Industrial Cooperative Project1
 2020 | 1 | [컴퓨터그래픽스](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) | [Computer Graphics](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) 
 2020 | 1 | [디자인패턴](https://github.com/m1nnh/DKU-minh/tree/master/디자인패턴) | [Design Pattern](https://github.com/m1nnh/DKU-minh/tree/master/디자인패턴) 
 2020 | 1 | [멀티미디어시스템](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어시스템) | [Multimedia System](https://github.com/m1nnh/DKU-minh/tree/master/멀티미디어시스템) 
@@ -18,7 +18,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2019 | 2 | [인공지능](https://github.com/m1nnh/DKU-minh/tree/master/인공지능) | [Artificial Intelligence](https://github.com/m1nnh/DKU-minh/tree/master/인공지능) 
 2019 | 2 | 컴퓨터구조 | Computer Architecture 
 2019 | 2 | 고급프로그래밍 | Advanced Programming 
-2019 | 2 | 실무중심산학협력프로젝트2 | Industrial Cooperative Project2 
+2019 | 2 | [실무중심산학협력프로젝트2]((https://github.com/m1nnh/LookForClothes) | [Industrial Cooperative Project2](https://github.com/m1nnh/LookForClothes) 
 2019 | 1 | [운영체제](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) | [Operating Systems](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) 
 2019 | 1 | 오픈소스SW활용 | Open Source SW Utilization 
 2019 | 1 | [알고리즘](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) | [Algorithm](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) 
