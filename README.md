@@ -18,7 +18,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2019 | 2 | [인공지능](https://github.com/m1nnh/DKU-minh/tree/master/인공지능) | [Artificial Intelligence](https://github.com/m1nnh/DKU-minh/tree/master/인공지능) 
 2019 | 2 | 컴퓨터구조 | Computer Architecture 
 2019 | 2 | 고급프로그래밍 | Advanced Programming 
-2019 | 2 | [실무중심산학협력프로젝트2]((https://github.com/m1nnh/LookForClothes) | [Industrial Cooperative Project2](https://github.com/m1nnh/LookForClothes) 
+2019 | 2 | [실무중심산학협력프로젝트2](https://github.com/m1nnh/LookForClothes) | [Industrial Cooperative Project2](https://github.com/m1nnh/LookForClothes) 
 2019 | 1 | [운영체제](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) | [Operating Systems](https://github.com/m1nnh/DKU-minh/tree/master/운영체제) 
 2019 | 1 | 오픈소스SW활용 | Open Source SW Utilization 
 2019 | 1 | [알고리즘](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) | [Algorithm](https://github.com/m1nnh/DKU-minh/tree/master/알고리즘) 
