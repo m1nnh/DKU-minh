@@ -8,7 +8,7 @@ Data on subjects taken by Danokook University from 2015 to 2021
 2021 | 1 | [시큐어코딩](https://github.com/m1nnh/DKU-minh/tree/master/시큐어코딩) | [Secure Coding](https://github.com/m1nnh/DKU-minh/tree/master/시큐어코딩) 
 2021 | 1 | [빅데이터 처리](https://github.com/m1nnh/DKU-minh/tree/master/빅데이터처리) | [Big Data Processing](https://github.com/m1nnh/DKU-minh/tree/master/빅데이터처리) 
 2021 | 1 | [영상정보처리](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) | [Image Processing](https://github.com/m1nnh/DKU-minh/tree/master/영상정보처리) 
-2021 | 1 | 데이터마이닝 | Data Mining 
+2021 | 1 | [데이터마이닝](https://github.com/m1nnh/DKU-minh/tree/master/데이터마이닝) | [Data Mining](https://github.com/m1nnh/DKU-minh/tree/master/데이터마이닝) 
 2020 | 1 | [데이터베이스기초](https://github.com/m1nnh/DKU-minh/tree/master/데이터베이스) | [Fundamentals Of Database](https://github.com/m1nnh/DKU-minh/tree/master/데이터베이스) 
 2020 | 1 | 실무중심산학협력프로젝트1 | Industrial Cooperative Project1
 2020 | 1 | [컴퓨터그래픽스](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) | [Computer Graphics](https://github.com/m1nnh/DKU-minh/tree/master/컴퓨터그래픽스) 
